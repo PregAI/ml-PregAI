@@ -1,0 +1,9 @@
+chair
+cobra
+dog
+downdog
+goddess
+plank
+tree
+warrior
+warrior2

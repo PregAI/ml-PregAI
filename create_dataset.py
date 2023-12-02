@@ -51,8 +51,8 @@ if __name__ == "__main__":
     # ===== donwload for specific txt file =====
 
     # Set the path to the specific text file and the output folder
-    specific_file_path = "./Dataset raw/Yoga-82/yoga_dataset_links/Akarna_Dhanurasana.txt"
-    root_output_folder = "./Dataset raw/Yoga-82/Downloaded_Images/Akarna_Dhanurasana_2"
+    specific_file_path = "./Dataset raw/Yoga-82/yoga_dataset_links/Four-Limbed_Staff_Pose_or_Chaturanga_Dandasana_.txt"
+    root_output_folder = "./Dataset raw/Yoga-82/Downloaded_dataset/Four-Limbed_Staff_Pose_or_Chaturanga_Dandasana_"
 
     # Extract filename from the path
     filename = os.path.splitext(os.path.basename(specific_file_path))[0]
