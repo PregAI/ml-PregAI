@@ -4,7 +4,7 @@
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
 3. [Model Architecture](#model-architecture)
-4  [Evaluation](#evaluation)
+4. [Evaluation](#evaluation)
 5. [Further Work](#further-work)
 
 ## Introduction
