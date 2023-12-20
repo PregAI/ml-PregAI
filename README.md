@@ -45,7 +45,7 @@ The dataset used for training and evaluation consists of a collection of images 
 MoveNet employs a deep learning architecture optimized for human pose estimation. This project leverages MoveNet Thunder, a powerful variant of the MoveNet architecture, to conduct human pose estimation. MoveNet Thunder excels in predicting key points on the human body, forming the cornerstone for accurate yoga pose classification in our machine learning model.
 
 ## Evaluation
-The model's performance was evaluated using a comprehensive set of metrics, including accuracy, precision, recall, and F1 score. The achieved accuracy of 97.80% demonstrates the model's ability to accurately classify yoga poses on the test dataset. Further accuracy improvement to 98.20% is observed after converting the model to TFLite and applying dynamic range quantization.
+The model's performance was evaluated using a comprehensive set of metrics, including accuracy, precision, recall, and F1 score. The achieved accuracy of 98.21% demonstrates the model's ability to accurately classify yoga poses on the test dataset. Further accuracy improvement to 98.28% is observed after converting the model to TFLite and applying dynamic range quantization.
 
 ## Further Work
 Future improvements and extensions to this project may include:
